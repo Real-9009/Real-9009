@@ -5,4 +5,4 @@
 💡 Built projects like Air Canvas ✍️ and Hate Speech Detection  
 🌱 Currently learning NLP and Deployment with Flask  
 📫 Reach me at: yadnidesai1908@gmail.com  
-
+🌐 [LinkedIn]  www.linkedin.com/in/yadni-desai-00183a36a
